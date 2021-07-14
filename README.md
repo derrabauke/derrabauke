@@ -4,7 +4,7 @@ Nice to see you here! Have a look on my profile and write me an e-mail if intere
 
 🦸‍♂️Working on a couple of VueJS Apps and an Electron app. Additionally writing & trying out a concept (DevOps) for a Cloud Native app (MERN stack).
 
-🤓 Current fields of study: **DevOps / DataScience / VueJS3**
+🤓 Current fields of study: **DevOps / Semantic Web / VueJS3 / EmberJS**
 
 🧑‍💻Going to write my masterthesis soon. All about finding & visualising cooperations in large datasets.
 

@@ -2,11 +2,9 @@
 
 Nice to see you here! Have a look on my profile and write me an e-mail if interesteed in colaboration.
 
-🦸‍♂️Working on a couple of VueJS Apps and an Electron app. Additionally writing & trying out a concept (DevOps) for a Cloud Native app (MERN stack).
+🤓 Active fields of study: **DevOps / Semantic Web / VueJS3 / EmberJS**
 
-🤓 Current fields of study: **DevOps / Semantic Web / VueJS3 / EmberJS**
-
-🧑‍💻Going to write my masterthesis soon. All about finding & visualising cooperations in large datasets.
+🧑‍💻 Currently writing my masterthesis... All about finding & visualising cooperations in large datasets.
 
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>

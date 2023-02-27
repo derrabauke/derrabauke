@@ -4,8 +4,6 @@ Nice to see you here! Have a look on my profile and write me an e-mail if intere
 
 🤓 Active fields of study: **DevOps / Semantic Web / VueJS3 / EmberJS**
 
-🧑‍💻 Currently writing my masterthesis... All about finding & visualising cooperations in large datasets.
-
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
